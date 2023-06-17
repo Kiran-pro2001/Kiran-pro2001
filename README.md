@@ -1,21 +1,24 @@
-Hi👋, I'm Kiran Kumar - a tech enthusiast😎
+Hi👋, I'm <h1>Kiran Kumar</h1>
 
-💬 Ask me about var topics = [ "HTML", "CSS", "JavaScript", "Bootstrap", "PHP", "SQL", "Python" , "C", "C++", "DSA"]
+- A Tech Enthusiast 😎
 
-"The topper has many things to loose but a failure has an universe to acheive".
 
-If you find that code relatable then -
+<h2>"The topper has many things to lose but a failure has a universe to achieve".</h2>
 
--lets start Building👷‍♂️ and learning📚 together.
+💬 Ask me about var topics = [ "HTML", "CSS", "JavaScript", "Bootstrap", "PHP", "SQL", "Python", "C", "C++", "DSA", "Core Subjects"]
 
--Pull me a request😉 and i'll pull it to you🤗.
 
--Let projects connect us🤞.
 
--Ping me on 📧 "erkirankumar07@gmail.com".
 
-..... 👉 Dont mind to look at some of my projects and if have some opinion then let me know it too😄.
+If you find that code relatable then - <br>
+
+- Let's Start Building👷‍♂️ and Learning📚 Together. <br>
+- Pull me a Request😉 and I'll pull it to you🤗.  <br>
+- Let Projects Connect Us🤞.   <br>
+- Ping me on 📧 "kk9840042@gmail.com".   <br>
+
+👉 Don't mind looking at some of my projects, and if have some opinion then let me know too 😄.
 
 Connect with me:
-https://www.linkedin.com/in/kiran-kumar-8809911b8/
+<a href="https://www.linkedin.com/in/kiran-kumar-8809911b8/"> Let's Connect </a>
 
