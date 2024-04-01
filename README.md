@@ -5,7 +5,7 @@ Hi👋, I'm <h1>Kiran Kumar</h1>
 
 <h2>"The topper has many things to lose but a failure has a universe to achieve".</h2>
 
-💬 Ask me about var topics = [ "HTML", "CSS", "JavaScript", "Bootstrap", "PHP", "SQL", "Python", "C", "C++", "DSA", "Core Subjects"]
+💬 Ask me about var topics = [ "HTML", "CSS", "JavaScript", "Bootstrap", "Tailwind", "React", "Node", "Express", "Mongodb", "SQL", "Python", "C", "C++", "DSA", "Core Subjects"]
 
 
 
