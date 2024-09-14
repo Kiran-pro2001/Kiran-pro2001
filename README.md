@@ -1,11 +1,13 @@
 Hi👋, I'm <h1>Er. Kiran Kumar</h1>
 
-- A Tech Enthusiast 😎
-- An Innovator. 💡
-- A Scientist. 🧑‍🔬
-- A Passionate Software Developer. 💻
+- A Tech Enthusiast 😎.
+- An Innovator💡.
+- A Scientist 🧑‍🔬.
+- A Passionate Software Developer 💻.
 - A Serial Solopreneur 🔥💪.
-- A Passionate Engineer. 🧑‍🎓
+- A Passionate Engineer 🧑‍🎓.
+- A Knowledge Seeker 💟.
+- A Self Improver 📈.
 
 
 
