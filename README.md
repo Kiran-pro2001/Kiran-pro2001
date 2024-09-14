@@ -1,6 +1,12 @@
 Hi👋, I'm <h1>Er. Kiran Kumar</h1>
 
 - A Tech Enthusiast 😎
+- An Innovator. 💡
+- A Scientist. 🧑‍🔬
+- A Passionate Software Developer. 💻
+- A Serial Solopreneur 🔥💪.
+- A Passionate Engineer. 🧑‍🎓
+
 
 
 <h2>"The topper has many things to lose but a failure has a universe to achieve".</h2>
