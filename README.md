@@ -3,7 +3,9 @@ Hi👋, I'm <h1>Er. Kiran Kumar</h1>
 - A Tech Enthusiast 😎.
 - An Innovator💡.
 - A Scientist 🧑‍🔬.
+- An Effective Problem Solver 🪨.
 - A Passionate Software Developer 💻.
+- A Competitive Programmer 🧿.
 - An Open Source Enthusiast🎓.
 - A Serial Solopreneur 🔥💪.
 - A Passionate Engineer 🧑‍🎓.
