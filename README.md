@@ -4,6 +4,7 @@ Hi👋, I'm <h1>Er. Kiran Kumar</h1>
 - An Innovator💡.
 - A Scientist 🧑‍🔬.
 - A Passionate Software Developer 💻.
+- An Open Source Enthusiast🎓.
 - A Serial Solopreneur 🔥💪.
 - A Passionate Engineer 🧑‍🎓.
 - A Knowledge Seeker 💟.
@@ -11,7 +12,7 @@ Hi👋, I'm <h1>Er. Kiran Kumar</h1>
 
 
 
-<h2>"The topper has many things to lose but a failure has a universe to achieve".</h2>
+<mark><h2>"The topper has many things to lose but a failure has a universe to achieve".</h2></mark>
 
 💬 Ask me about var topics = [ "HTML", "CSS", "JavaScript", "Bootstrap", "Tailwind", "ReactJs", "NodeJs", "ExpressJs", "Mongodb", "SQL", "Python", "C", "C++", "DSA", "Core Subjects", "Git & Github", "Cloud Computing", "Computer Networks", "Figma"]
 
