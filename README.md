@@ -3,6 +3,7 @@ Hi👋, I'm <h1>Er. Kiran Kumar</h1>
 
 - A Tech Enthusiast 😎.
 - An Innovator💡.
+- An Inventor 🕵️‍♀️.
 - A Scientist 🧑‍🔬.
 - An Effective Problem Solver 🪨.
 - A Passionate Software Developer 💻.
