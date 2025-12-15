@@ -19,7 +19,7 @@ Hi👋, I'm <h1>Er. Kiran Kumar</h1>
 <mark><h2>"The topper has many things to lose but a failure has a universe to achieve".</h2></mark>
 <p>I am a Software Engineer by Profession, and An Entrepreneur By Passion, and a Philosopher by Heart. </p>
 
-💬 Ask me about var topics = [ "HTML", "CSS", "JavaScript", "Bootstrap", "Tailwind", "ReactJs", "NodeJs", "ExpressJs", "Mongodb", "SQL", "Python", "C", "C++", "DSA", "Core Subjects", "Git & Github", "Cloud Computing", "Computer Networks", "Figma"]
+💬 Ask me about var topics = [ "Agentic AI", "Machine Learning", "Gen AI", "Deep Learning", "Data Science", "HTML", "CSS", "JavaScript", "Bootstrap", "Tailwind", "ReactJs", "NodeJs", "ExpressJs", "Mongodb", "SQL", "Python", "C", "C++", "DSA", "Core Subjects", "Git & Github", "Cloud Computing", "Computer Networks", "Figma"]
 
 
 
